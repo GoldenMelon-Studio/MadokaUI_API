@@ -1,2 +1,2 @@
-# MadokaUI_API
-API for MadokaUI.
+# WhatIF API
+API for WhatIF.
